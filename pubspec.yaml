@@ -1,7 +1,6 @@
 name: adapter_listview
 description: 一个类似Android中的Adapter的一套组件
 version: 0.0.1
-author:
 homepage:
 
 environment:
